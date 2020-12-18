@@ -1,0 +1,8 @@
+ <!-- Evento Facebook Pixel Code -->
+<script>
+  fbq('trackCustom', 'EbookFalcon', {
+    dominio: 'https://ebookfalcon.netlify.app/',
+    pagina: 'ebokofalcon',
+    fonte: 'facebook'});
+</script>
+<!-- End Facebook Pixel Code -->
